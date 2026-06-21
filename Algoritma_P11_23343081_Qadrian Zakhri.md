@@ -1,4 +1,4 @@
-# Algoritma_P11_NIM_NamaLengkap
+# Algoritma_P11_23343081_Qadrian Zakhri
 
 ## Praktikum Integrasi API dan Repository Pattern Flutter
 
